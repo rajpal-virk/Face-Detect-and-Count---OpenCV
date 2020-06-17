@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Author: Rajpal Virk | 20 May 2020
 
 # Import required libraries
 import cv2
